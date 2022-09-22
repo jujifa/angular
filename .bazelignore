@@ -5,6 +5,7 @@
 .git
 node_modules
 dist
+.cache
 aio/content
 aio/node_modules
 aio/tools/examples/shared/node_modules
